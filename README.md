@@ -2,6 +2,19 @@
 
 This repository holds public PowerPoint presentations that I used in user group meetings, community event, or conferences.
 
+## General presentations
+
+Most presentions are organized by year and event.
+
+## User Groups
+
+Presentations used for user group meetups include
+
+- Exchange User Group DACH
+- Teams User Group Berlin
+
+These are organized by user group.
+
 ## Stay connected
 
 - My Blog: [http://blog.granikos.eu](http://blog.granikos.eu)
